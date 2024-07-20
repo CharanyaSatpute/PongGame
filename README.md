@@ -4,12 +4,6 @@
 
 <h1 align="center">PONG GAME</h1>
 
-<p align="center">Ping-Pong game built with Unity !</p>
-
-<p align="center">
-  <a href="https://github.com/enessfk/pong-game/issues">Report Bug</a> · 
-  <a href="https://github.com/enessfk/pong-game/issues">Request Feature</a>
-</p>
 
 ## About
 
