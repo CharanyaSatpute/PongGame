@@ -16,12 +16,6 @@
 This is a simple Ping-Pong game built with Unity Engine using C# for the purpose of study. 
 It basically consists of three different modes; player vs player, AI vs player and AI vs AI.
 
-## Build
-1. Copy https://github.com/enessfk/pong-game.git
-2. Go to your command prompt or terminal. (Make sure you have installed git on your computer)
-3. Type ```git clone https://github.com/enessfk/pong-game.git```
-4. And finally it will be cloned to your computer.
-5. Open it with Unity
 
 ## Screenshots
 
@@ -43,7 +37,4 @@ It basically consists of three different modes; player vs player, AI vs player a
  	
  	To move paddle up press 'UP_ARROW'.
  	To move paddle down press 'DOWN_ARROW'.
-  
-## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
